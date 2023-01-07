@@ -6,7 +6,7 @@
 #
 cachetools==5.2.0
     # via google-auth
-certifi==2022.6.15
+certifi==2022.12.7
     # via requests
 charset-normalizer==2.1.1
     # via requests
@@ -79,7 +79,7 @@ opencensus-ext-stackdriver==0.8.0
     # via -r requirements.in
 proto-plus==1.22.1
     # via google-cloud-monitoring
-protobuf==3.20.1
+protobuf==3.20.2
     # via
     #   -r requirements.in
     #   google-api-core
