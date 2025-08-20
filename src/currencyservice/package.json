@@ -13,7 +13,7 @@
     "@google-cloud/profiler": "5.0.2",
     "@google-cloud/trace-agent": "7.1.1",
     "@grpc/grpc-js": "1.6.12",
-    "@grpc/proto-loader": "0.7.2",
+    "@grpc/proto-loader": "0.8.0",
     "async": "3.2.4",
     "google-protobuf": "3.21.0",
     "pino": "8.4.2",
